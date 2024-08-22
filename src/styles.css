@@ -1,1 +1,26 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+  --color-white: #fff;
+  --color-black: #000;
+  --main-color: #f68b1e;
+  --main-color-rgb: 246, 139, 30;
+  --main-color-50: #fff9ed;
+  --main-color-100: #fef1d6;
+  --main-color-200: #fddfab;
+  --main-color-300: #fbc776;
+  --main-color-400: #f8a43f;
+  --main-color-500: #f68b1e;
+  --main-color-600: #e76e0f;
+  --main-color-700: #bf530f;
+  --main-color-800: #984214;
+  --main-color-900: #7b3813;
+  --main-color-950: #421a08;
+  --color-gray-100: #f2f2f2;
+  --color-gray-200: #e6e6e6;
+  --color-gray-300: #ccc;
+  --color-gray-400: #b3b3b3;
+  --color-gray-500: #999;
+  --color-gray-600: #808080;
+  --color-gray-700: #666;
+  --color-gray-800: #4d4d4d;
+  --color-gray-900: #333;
+}
